@@ -1,0 +1,46 @@
+﻿@page
+@model NetCoreWebApi.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Employee.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.MiddleName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Employee.MiddleName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.JoiningDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Employee.JoiningDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.Salary)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Employee.Salary)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Employee.ID" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

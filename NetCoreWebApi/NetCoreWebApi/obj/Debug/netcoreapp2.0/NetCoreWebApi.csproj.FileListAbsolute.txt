@@ -1,0 +1,11 @@
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.AssemblyInfo.cs
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.deps.json
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.runtimeconfig.json
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.runtimeconfig.dev.json
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.dll
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.pdb
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.dll
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.pdb
+C:\Users\Rose\source\repos\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.csprojAssemblyReference.cache
